@@ -1,7 +1,7 @@
 {
     "pew": {
       "sounds": [
-        "suits/pew"
+        "pew"
       ],
       "category": "player"
     }
