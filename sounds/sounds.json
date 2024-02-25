@@ -1,0 +1,44 @@
+{
+    "1": {
+      "sounds": [
+        "1.ogg"
+      ],
+      "category": "player"
+    },
+    "2": {
+      "sounds": [
+        "2.ogg"
+      ],
+      "category": "player"
+    },
+    "3": {
+      "sounds": [
+        "3.ogg"
+      ],
+      "category": "player"
+    },
+    "4": {
+      "sounds": [
+        "4.ogg"
+      ],
+      "category": "player"
+    },
+    "5": {
+      "sounds": [
+        "5.ogg"
+      ],
+      "category": "player"
+    },
+    "6": {
+      "sounds": [
+        "6.ogg"
+      ],
+      "category": "player"
+    },
+    "7": {
+      "sounds": [
+        "7.ogg"
+      ],
+      "category": "player"
+    }
+}
