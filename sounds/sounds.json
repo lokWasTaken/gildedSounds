@@ -41,9 +41,9 @@
       ],
       "category": "player"
     },
-    "clawExtend": {
+    "claw_extend": {
       "sounds": [
-        "wolverine/clawExtend"
+        "claw_extend"
       ],
       "category": "player"
     }
