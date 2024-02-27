@@ -40,5 +40,11 @@
         "7"
       ],
       "category": "player"
+    },
+    "clawExtend": {
+      "sounds": [
+        "wolverine/clawExtend"
+      ],
+      "category": "player"
     }
 }
