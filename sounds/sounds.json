@@ -46,5 +46,11 @@
         "claw_extend"
       ],
       "category": "player"
+    },
+    "cyclops_beam_loop": {
+      "sounds": [
+        "cyclops_beam_loop"
+      ],
+      "category": "player"
     }
 }
